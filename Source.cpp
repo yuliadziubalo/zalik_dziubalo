@@ -17,7 +17,6 @@ int main()
 			cout << "Input x2: "; cin >> x2;
 			if (x2 == 1)
 			{
-				cout << "Class 1";
 			}
 			else
 			{ 
